@@ -23,7 +23,7 @@ I received my PhD in Physics from **Aligarh Muslim University, India**, on self-
   <span class="chip">Scaling &amp; universality</span>
   <span class="chip">Noise &amp; fluctuations</span>
   <span class="chip">Nonlinear dynamics</span>
-  <span class="chip nt">Number theory</span>
+  <!-- <span class="chip nt">Number theory</span> -->
 </div>
 
 <div class="profile-links" id="profiles">
