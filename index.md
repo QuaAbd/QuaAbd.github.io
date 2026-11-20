@@ -63,6 +63,11 @@ I received my PhD in Physics from **Aligarh Muslim University, India**, on self-
     <p>Scaling of the largest avalanches in self-organized critical models. <em>J. Stat. Mech.</em> (2026).</p>
   </div>
   <div class="card theme-card">
+    <div class="formula">⟨η(t)η(t′)⟩ = σ²δ(t−t′)</div>
+    <h3>Neuronal avalanches under noisy drive</h3>
+    <p>Neuronal avalanches in the level model under the influence of noisy drive. <em>Eur. Phys. J. B</em> <strong>97</strong> (2024).</p>
+  </div>
+  <div class="card theme-card">
     <div class="formula">⟨s⟩ ∼ L<sup>D</sup></div>
     <h3>Finite-size scaling</h3>
     <p>Finite-size scaling in critical avalanches. <em>Phys. Rev. E</em> <strong>106</strong> (2022).</p>
